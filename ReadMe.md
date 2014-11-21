@@ -25,7 +25,7 @@ Included Files
 
     The output of the this project is called mean_data.txt, and uploaded int the GitHUb. This contains a tidy data set required by the project
 
-4. READMe
+4. README
 
     This is the information file for the reader 
 
