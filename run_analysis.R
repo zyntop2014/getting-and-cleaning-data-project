@@ -4,7 +4,7 @@ library(plyr)
 # Merge the training and test sets to create one data set
 ###############################################################################
 
-x_train <- read.table("train/X_train.txt")
+x_train <- read.table("train/X_train.txt") # add some comments for test
 y_train <- read.table("train/y_train.txt")
 subject_train <- read.table("train/subject_train.txt")
 
